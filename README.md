@@ -1,7 +1,9 @@
 ![banner](image.png)
 
+# GRUB TELEGRAM
+[LINK](https://t.me/bug_hunter_25)
 # How to get environtment Variables
-Go to [TELEGRAM CHANNEL](https://t.me/bug_hunter_25)
+Go to [LINK](https://t.me/bug_hunter_25/80/83)
 Copy the provided environment variables and paste it into a text file named `.env` in the same directory as `main.py`.
 You can use nano or any text editor to create the file.
 
